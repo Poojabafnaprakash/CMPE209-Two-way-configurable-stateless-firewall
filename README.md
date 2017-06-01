@@ -1,11 +1,9 @@
 # CMPE209-Two-way-configurable-firewall
 As part of our project, we have implemented the following: <br />
-● We implemented a stateless firewall by using python in Linux based operating system. The
-rules can be configured by users. <br />
-● The stateless firewall will filter both incoming and outgoing packets based on protocol,
-IP/MAC address and port number. <br />
-● It can also block/unblock Facebook and limit number of connections. <br />
-● We used python-iptables which contains security rules to set up our stateless firewall. <br />
+      We implemented a stateless firewall by using python in Linux based operating system. The rules can be configured by users. <br />
+      The stateless firewall will filter both incoming and outgoing packets based on protocol, IP/MAC address and port number. <br />
+      It can also block/unblock Facebook and limit number of connections. <br />
+      We used python-iptables which contains security rules to set up our stateless firewall. <br />
 
 Link to the demo: https://youtu.be/bUcBIjX29Po <br/>
 Link to the project report: https://github.com/Poojabafnaprakash/CMPE209-Two-way-configurable-stateless-firewall/files/1043972/Team8_CMPE209_Final.Report.pdf <br />
