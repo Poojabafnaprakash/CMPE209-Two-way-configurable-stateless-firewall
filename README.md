@@ -5,8 +5,8 @@ As part of our project, we have implemented the following: <br />
       --> It can also block/unblock Facebook and limit number of connections. <br />
       --> We used python-iptables which contains security rules to set up our stateless firewall. <br />
 
-Link to the demo: https://youtu.be/bUcBIjX29Po <br/>
-Link to the project report: https://github.com/Poojabafnaprakash/CMPE209-Two-way-configurable-stateless-firewall/files/1043972/Team8_CMPE209_Final.Report.pdf <br />
+Link to the demo: https://youtu.be/bUcBIjX29Po <br/> <br />
+Link to the project report: https://github.com/Poojabafnaprakash/CMPE209-Two-way-configurable-stateless-firewall/files/1043972/Team8_CMPE209_Final.Report.pdf <br /> <br />
 Link to project presentation: https://github.com/Poojabafnaprakash/CMPE209-Two-way-configurable-stateless-firewall/files/1043973/Team.8._.CMPE.209._.Final.Slides.pdf <br />
 
 Some of the screenshots of the project are as follows: <br />
